@@ -16,9 +16,9 @@ Useful links (_"When you need a hand, take a look at the end of your arm."_, **A
 [GitHub](https://github.com/)  
 [git](https://git-scm.com/)
 ### Handling difficult situations with git
-[Quick tutorial](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/)
-[Discussion on StackOverflow](https://stackoverflow.com/questions/44727750/how-do-i-restore-a-previous-version-as-a-new-commit-in-git)
-[GitHub itself answers](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
+[Quick tutorial](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/)  
+[Discussion on StackOverflow](https://stackoverflow.com/questions/44727750/how-do-i-restore-a-previous-version-as-a-new-commit-in-git)  
+[GitHub itself answers](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)  
 [When everything is really messed-up](https://git-scm.com/docs/git-merge)
 
 ## Jupyter
