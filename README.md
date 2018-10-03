@@ -15,6 +15,8 @@ Useful links (_"When you need a hand, take a look at the end of your arm."_, **A
 [BitBucket](https://bitbucket.org/product)  
 [GitHub](https://github.com/)  
 [git](https://git-scm.com/)
+### Handling difficult situations with git
+[Quick tutorial](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/)
 
 ## Jupyter
 [Jupyter](http://jupyter.org/index.html)  
