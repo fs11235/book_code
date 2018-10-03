@@ -1,7 +1,7 @@
 # book_code
 This project contains the code for the OUP book Data Science &amp; Complex Networks.
 
-This is Fabio's fork for the class of Python &amp; @IMT
+This is Fabio's fork for the class of Python &amp; Network @IMT
 
 Useful links (_"When you need a hand, take a look at the end of your arm."_,**Ancient Chinese Proverb**)
 ## How to write in Markdown
