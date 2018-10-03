@@ -5,7 +5,7 @@ This is Fabio's fork for the class of Python &amp @IMT
 
 Useful links (_"When you need a hand, take a look at the end of your arm."_,**Ancient Chinese Proverb**)
 ## How to write in Markdown
-[MarkDown quick guide](https://daringfireball.net/projects/markdown/syntax#link)\s\s
+[MarkDown quick guide](https://daringfireball.net/projects/markdown/syntax#link)\s\s  
 [MarkDown long guide](https://markdown-guide.readthedocs.io/en/latest/index.html)
 
 ## Conda
