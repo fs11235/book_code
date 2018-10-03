@@ -3,7 +3,7 @@ This project contains the code for the OUP book Data Science &amp; Complex Netwo
 
 This is Fabio's fork for the class of Python &amp; Network @IMT
 
-Useful links (_"When you need a hand, take a look at the end of your arm."_,**Ancient Chinese Proverb**)
+Useful links (_"When you need a hand, take a look at the end of your arm."_, **Ancient Chinese Proverb**)
 ## How to write in Markdown
 [MarkDown quick guide](https://daringfireball.net/projects/markdown/syntax#link)  
 [MarkDown long guide](https://markdown-guide.readthedocs.io/en/latest/index.html)
