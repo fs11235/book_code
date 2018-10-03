@@ -18,7 +18,7 @@ Useful links (_"When you need a hand, take a look at the end of your arm."_, **A
 ### Handling difficult situations with git
 [Quick tutorial](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/)
 [Discussion on StackOverflow](https://stackoverflow.com/questions/44727750/how-do-i-restore-a-previous-version-as-a-new-commit-in-git)
-[GitHub itself answer](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
+[GitHub itself answers](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
 
 ## Jupyter
 [Jupyter](http://jupyter.org/index.html)  
