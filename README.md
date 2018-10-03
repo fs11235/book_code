@@ -3,9 +3,10 @@ This project contains the code for the OUP book Data Science &amp; Complex Netwo
 
 This is Fabio's fork for the class of Python &amp @IMT
 
-Useful links (**"When you need a hand, take a look at the end of your arm."**)
+Useful links (_"When you need a hand, take a look at the end of your arm."_,**Ancient Chinese Proverb**)
 ## How to write in Markdown
-[MarkDown guide](https://daringfireball.net/projects/markdown/syntax#link)
+[MarkDown quick guide](https://daringfireball.net/projects/markdown/syntax#link)\s\s
+[MarkDown long guide](https://markdown-guide.readthedocs.io/en/latest/index.html)
 
 ## Conda
 [Conda](https://conda.io/docs/index.html)
@@ -26,7 +27,7 @@ Useful links (**"When you need a hand, take a look at the end of your arm."**)
 [python-igraph](http://igraph.org/python/)
 
 ## Numpy, Scipy, Pandas
-[Numpy](http://www.numpy.org/ "The best module ever")"
+[Numpy](http://www.numpy.org/ "The best module ever")
 [Scipy](https://scipy.org/)
 [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html#)
 
