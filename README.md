@@ -38,7 +38,8 @@ Useful links (_"When you need a hand, take a look at the end of your arm."_, **A
 
 ## Matplotlib
 [Matplotlib](https://matplotlib.org/index.html "A nightmare")  
-[Matplotlib plot structure](https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py "Something I should read more carefully every time")
+[Matplotlib plot structure](https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py "Something I should read more carefully every time")  
+[Matplotlib colors maps](https://matplotlib.org/examples/color/colormaps_reference.html "Something soopercool!")
 
 ## Some tricks
 [Remote Notebooks](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh)
